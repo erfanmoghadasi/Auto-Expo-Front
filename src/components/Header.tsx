@@ -23,25 +23,25 @@ const Header = () => {
           <ul className="flex w-full h-full ">
             <li className="w-full flex flex-col justify-center pl-5 relative leading-3">
               <h6 className="text-yellow-600 text-sm">Car</h6>
-              <p className="text-slate-500 ">lorem</p>
+              <p className="text-slate-500 text-sm">lorem</p>
               <IoIosArrowDown className="absolute right-5 bottom-2 text-slate-400 " />
               <span className="bg-slate-200 absolute right-2 top-2 h-7 w-[1px]"></span>
             </li>
             <li className="w-full flex flex-col justify-center pl-5 relative leading-3">
-              <h6 className="text-yellow-600 text-sm">Car</h6>
-              <p className="text-slate-500 ">lorem</p>
+              <h6 className="text-yellow-600 text-sm">Location</h6>
+              <p className="text-slate-500 text-sm">lorem</p>
               <IoIosArrowDown className="absolute right-5 bottom-2 text-slate-400 " />
               <span className="bg-slate-200 absolute right-2 top-2 h-7 w-[1px]"></span>
             </li>
             <li className="w-full flex flex-col justify-center pl-5 relative leading-3">
-              <h6 className="text-yellow-600 text-sm">Car</h6>
-              <p className="text-slate-500 ">lorem</p>
+              <h6 className="text-yellow-600 text-sm">Country</h6>
+              <p className="text-slate-500 text-sm">lorem</p>
               <IoIosArrowDown className="absolute right-5 bottom-2 text-slate-400 " />
               <span className="bg-slate-200 absolute right-2 top-2 h-7 w-[1px]"></span>
             </li>
             <li className="w-full flex flex-col justify-center pl-5 relative leading-3">
-              <h6 className="text-yellow-600 text-sm">Car</h6>
-              <p className="text-slate-500 ">lorem</p>
+              <h6 className="text-yellow-600 text-sm">City</h6>
+              <p className="text-slate-500 text-sm">lorem</p>
               <IoIosArrowDown className="absolute right-5 bottom-2 text-slate-400 " />
             </li>
             <li className="min-w-[230px]  flex justify-center items-center gap-3 bg-yellow-500 text-white ">
